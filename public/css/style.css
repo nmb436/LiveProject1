@@ -1,0 +1,24 @@
+.bg-2 { 
+      background-image: url("../images/orange.jpg");
+    background-size: cover;
+      color: #ffffff;
+  }
+
+#jumbotron {
+      padding-top: 70px;
+      padding-bottom: 70px;
+  }
+
+.modal-content{
+    color:black;
+};
+
+#columnheading{
+    color: #5766de;
+}
+
+footer{
+    background-color: #ffc34c;
+    color:white;
+    padding-top: 1em;
+      padding-bottom: 1em;}
